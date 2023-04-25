@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Producto 4",
+      "description": "Este es el producto 4",
+      "price": 40,
+      "thumbnail": "https://ejemplo.com/producto4.jpg",
+      "code": "P4",
+      "stock": 20
+    },
+    {
+      "title": "Producto 5",
+      "description": "Este es el producto 5",
+      "price": 50,
+      "thumbnail": "https://ejemplo.com/producto5.jpg",
+      "code": "P5",
+      "stock": 25
+    }
+  ]
+  
